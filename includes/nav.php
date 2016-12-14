@@ -15,6 +15,9 @@
 	  <ul class="nav navbar-nav">
 		<li><a class="nav-link" href="index.php">Home</a></li>
 		<li><a class="nav-link" href="background.php">Background</a></li>
+		<li><a class="nav-link" href="about.php">About</a></li>
+		<li><a class="nav-link" href="people.php">Collaborators</a></li>
+		<li><a class="nav-link" href="students.php">Students</a></li>
 	  </ul>
 	</div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
