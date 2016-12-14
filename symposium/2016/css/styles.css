@@ -1,0 +1,103 @@
+header img {
+	max-width: 100%;
+}
+
+footer {
+	text-align: center;
+	margin: 25px 0;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+.center {
+	text-align: center;
+}
+
+
+section {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+div ul {
+	padding left: 30px;
+}
+
+.objectives {
+	margin: 0;
+	padding: 15px 0;
+	width: 100%;
+	background-color: #F15A24;
+	color: #fff;
+}
+
+.sponsors a img {
+	max-height: 100px;
+	padding-right: 25px;
+	margin-top: 25px;
+}
+
+.sidebar div {
+	margin: 0 0 50px 0;
+}
+
+/* Table Tweaks */
+.program table {
+	width: 615px;
+	margin: 25px 0;
+}
+
+.program h2 {
+	margin: 50px 0 0 0;
+}
+
+.program table td {
+	padding: 5px;
+	min-width: 150px;
+	border: 1px solid #aaa;
+} 
+
+.program p {
+	max-width: 615px;
+}
+
+.program a img {
+	max-width: 200px;
+}
+
+/* Navbar */
+.logo-img a {
+	padding: 0 !important;
+}
+
+.navbar {
+	background-color: #fff !important;
+}
+
+.nav-link {
+	padding: 40px 15px !important;
+}
+
+.nav li a img {
+	height: 100px;
+	padding: 5px 25px 5px 0 !important;
+}
+
+/* Center Navbar on desktop */
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+.onsite a img {
+	max-height: 275px;
+	width: 100%;
+}
