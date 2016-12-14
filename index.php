@@ -1,50 +1,5 @@
 <?php $pagetitle = "Home"; require_once('includes/header.php'); ?>
 
-<!-- Info Boxes -->
-<section class="container">
-	<div class="row">
-		<!-- Dates -->
-		<div class="col-sm-4">
-			<h2 class="">
-				<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
-				&nbsp;Dates
-			</h2>
-			<div class="info-box">
-				<h3>Event Dates</h3>
-				<h4>October 3, 2016</h4>
-				<h4>October 4, 2016</h4>
-			</div>
-		</div>
-
-		<!-- Location -->
-		<div class="col-sm-4">
-			<h2 class="">
-				<i class="fa fa-map-marker" aria-hidden="true"></i>
-				&nbsp;Location
-			</h2>
-			<p class="info-box">
-				<img src="images/ucf.jpg"><br>
-				Live Oak Event Center,<br>
-				University of Central Florida,<br>
-				4115 Pyxis Ln, Orlando, FL 32816
-			</p>
-		</div>
-
-		<!-- Contact -->
-		<div class="col-sm-4">
-			<h2 class="">
-				<i class="fa fa-paper-plane" aria-hidden="true"></i>
-				&nbsp;Contact
-			</h2>
-			<p class="info-box">
-				Vilmania Ramos<br>
-				(MISA Program Assistant)<br>
-				<a href="mailto:vramos@ucf.edu">vramos@ucf.edu</a>
-			</p>
-		</div>
-	</div> 
-</section>
-
 <!-- Statement -->
 <section class="container">
 	<div class="statement row">
