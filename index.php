@@ -3,10 +3,19 @@
 <!-- Statement -->
 <section class="container">
 	<div class="statement row">
-		<p class="col-md-6">The materials innovation for sustainable agriculture (MISA) is a center of excellence that has been established to carry out research and education/extension on material innovation to tackle agricultural/citrus diseases. Our program originated from a partnership between US universities, grower cooperatives, agri-chemical industries, regulatory agencies supported through several funded projects from USDA.-NIFA, Citrus Research and Development Foundation, and industry.</p>
+		<div class="col-md-8">
+			<h2>What is MISA Center?</h2>
+			<ul>
+				<li>USDA-NIFA recognized Center of Excellence</li>
+				<li>Interdisciplinary Research, Education and Outreach/Extension</li>
+				<li>Aligned with UCF’s goal of becoming “America’s leading partnership University” </li>
+				<li>Collaborative center engaging institutions from across the world</li>
+			</ul>
+		</div>
 
-		<p class="col-md-6">While it is physically located at the University of Central Florida (UCF), at the heart of Central Florida, we intend for MISA to become a platform for scientists, grower, and industry to meet and exchange the knowledge and skills available to combat agricultural diseases for long-term crop protection. 
-		</p>		
+		<div class="col-md-4">
+			<h2>Misa News</h2>
+		</div>	
 	</div>
 </section>
 
@@ -15,31 +24,21 @@
 <div class="objectives">
 	<section class="container">
 		<div class="row">
-			<h2>
-				<i class="fa fa-thumb-tack" aria-hidden="true"></i>
-				&nbsp;MISA 2016 Objectives
-			</h2>
-			<ul>
-				<p>The goal of our MISA center is to: </p>
-				<li>Coordinate research efforts to address agricultural diseases threatening crop yield</li>
-				<li>Improve academic and public education on crop diseases, their economic impact, and possible solutions</li>
-				<li>Develop extension  activities including presence at grower meetings, increasing public awareness, dissemination of research data, tools for economic analysis of treatments by growers, and grower trainings for field deployment of new treatments</li>
-				<li>Foster public-private partnerships to engage all stakeholders in research and extension activities, with the purpose of developing treatment methods that are practical in the field and economically feasible</li>
-				<li>Improve economic returns to rural communities</li>
-			</ul>
+			<div class="col-md-12">
+				<h2>Our Vision</h2>
+				<h4>To advance knowledge and promote innovations for sustainable agricultural practices</h4>
+
+				<h3>Mission</h3>
+				<ul>
+					<li>Promote interdisciplinary research culture for stimulating innovations in materials research</li>
+					<li>Develop new technologies for protecting sustainability of agriculture industry challenged by emerging threats of plant diseases and unpredictable weather patterns</li>
+					<li>Establish industry-academia close collaboration for educational and technological knowledge sharing</li>
+					<li>Establish interdisciplinary education and extension program to help growers in making informed decision</li>
+					<li>Promote sustainable outcomes by adopting innovative approaches through engagement of stakeholders, scientists, engineers, industry partners and regulatory agencies</li>
+				</ul>
+			</div>
 		</div>
 	</section>
 </div>
-
-<section class="container">
-	<div class="row sponsors">
-		<h2>
-			<i class="fa fa-money" aria-hidden="true"></i>
-			&nbsp;Our Sponsors
-		</h2>
-		<a href="http://www.usda.gov/"><img src="images/sponsors/usda.png"></a>
-		<a href="http://ucf.edu"><img src="images/sponsors/ucf.jpg"></a>
-	</div>
-</section>
 
 <?php require_once('includes/footer.php'); ?>
