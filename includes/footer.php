@@ -1,6 +1,6 @@
 <footer>
-	<a href="index.php">2016 MISA Inaugural Symposium</a> 
-	<em>hosted by UCF</em> 
+	<a href="index.php">MISA Center</a> 
+	<em>at UCF</em> 
 	<a href="http://www.nanoscience.ucf.edu/">NanoScience Technology Center</a>
 	<br> 
 

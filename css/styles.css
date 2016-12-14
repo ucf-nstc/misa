@@ -1,13 +1,16 @@
+
+/* Header */
 header img {
 	width: 100%;
 }
 
-
+/* Footer */
 footer {
 	text-align: center;
 	margin: 25px 0;
 }
 
+/* General */
 p {
 	line-height: 1.5em;
 }
@@ -26,6 +29,7 @@ div ul {
 	padding left: 30px;
 }
 
+/* Home */
 .objectives {
 	margin: 0;
 	padding: 15px 0;
@@ -34,38 +38,24 @@ div ul {
 	color: #fff;
 }
 
-.sponsors a img {
-	max-height: 100px;
-	padding-right: 25px;
-	margin-top: 25px;
+/* Projects */
+.projects .col-md-4 {
+	text-align: center;
 }
 
+.projects img {
+	max-width: 250px;
+}
+
+/* Education */
+.education img {
+	width: 100%;
+	padding: 1em 0;
+}
+
+/* Sidebar */
 .sidebar div {
 	margin: 0 0 50px 0;
-}
-
-/* Table Tweaks */
-.program table {
-	width: 615px;
-	margin: 25px 0;
-}
-
-.program h2 {
-	margin: 50px 0 0 0;
-}
-
-.program table td {
-	padding: 5px;
-	min-width: 150px;
-	border: 1px solid #aaa;
-} 
-
-.program p {
-	max-width: 615px;
-}
-
-.program a img {
-	max-width: 200px;
 }
 
 /* Navbar */

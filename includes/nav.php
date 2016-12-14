@@ -18,6 +18,10 @@
 		<li><a class="nav-link" href="about.php">About</a></li>
 		<li><a class="nav-link" href="people.php">Collaborators</a></li>
 		<li><a class="nav-link" href="students.php">Students</a></li>
+		<li><a class="nav-link" href="projects.php">Projects</a></li>
+		<li><a class="nav-link" href="news.php">News</a></li>
+		<li><a class="nav-link" href="education.php">Education</a></li>
+		<li><a class="nav-link" href="symposium.php">Symposium</a></li>
 	  </ul>
 	</div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
