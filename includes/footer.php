@@ -5,11 +5,7 @@
 	<br> 
 
 	<!-- Contact Info -->
-	<span>Vilma Ramos</span>
-	&nbsp;|&nbsp; 
-	<a href="mailto:vramos@ucf.edu">vramos@ucf.edu</a> 
-	&nbsp;|&nbsp; 
-	<a href="tel:+407-823-4184">407-823-4184</a>
+	<a href="mailto:misa@ucf.edu">misa@ucf.edu</a> 
 
 </footer>
 
