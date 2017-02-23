@@ -13,7 +13,6 @@
 
 			<!-- Links -->
 			<ul>
-				<li><u><a href="http://www.huffingtonpost.com/2015/04/22/citrus-greening-treatment_n_7103984.html">http://www.huffingtonpost.com/2015/04/22/citrus-greening-treatment_n_7103984.html</a></li>
 				<li><u><a href="https://agrowawards.com/2016finalists/">https://agrowawards.com/2016finalists/</a></u></li>
 				<li><u><a href="http://www.rdmag.com/news/2016/08/2016-r-d-100-awards-finalists">http://www.rdmag.com/news/2016/08/2016-r-d-100-awards-finalists</a></u></li>
 				<li><u><a href="http://today.ucf.edu/ucf-developed-formula-stop-citrus-greening-finalist-2-awards/">http://today.ucf.edu/ucf-developed-formula-stop-citrus-greening-finalist-2-awards/</a></u></li>

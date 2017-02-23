@@ -31,9 +31,9 @@
 			<p>Nanomaterial synthesis and characterization</p>
 			<p><strong>Jared Church, </strong><em>PhD student, Environmental Engineering</em></p>
 			<p>Metal sensor development</p>
-			<p><strong>Rebecca L. McLean, </strong><em> Under graduate student, Environmental Engineering</em></p>
+			<p><strong>Rebecca L. McLean, </strong><em> Undergraduate student, Environmental Engineering</em></p>
 			<p>Metal sensor development</p>
-			<p><strong>Brandon M. Carpenter, </strong><em> Under graduate student</em></p>
+			<p><strong>Brandon M. Carpenter, </strong><em> Undergraduate student</em></p>
 			<p>Material transport in plant tissues</p>
 			<p><strong>Parth</strong><strong> K. Patel, </strong><em> PhD student</em></p>
 			<p>Ionophore sensor development</p>
@@ -42,7 +42,7 @@
 		</div>
 
 		<div class="col-md-4">
-			<p><strong>Stephanie M. </strong><strong>Armas</strong><strong>, </strong><em>MS student, Chemistry </em></p>
+			<p><strong>Stephanie M. </strong><strong>Armas</strong><strong>, </strong><em>M.S. student, Chemistry </em></p>
 			<p>Ionophore sensor development</p>
 			<p><strong>Wynstona</strong><strong> P. Louis, </strong><em> Chemistry</em></p>
 			<p>Ionophore sensor development</p>
@@ -50,7 +50,7 @@
 			<p>Ionophore sensor development</p>
 			<p><strong>Yasmine</strong><strong> A. </strong><strong>Abdellatif</strong><strong>, </strong><em>PhD student, Chemistry</em></p>
 			<p>Fluorescence and Lifetime spectroscopy</p>
-			<p><strong>Tahmina</strong> <strong>Banu</strong><strong>, </strong><em>MS student, Chemistry (graduated)</em></p>
+			<p><strong>Tahmina</strong> <strong>Banu</strong><strong>, </strong><em>M.S. student, Chemistry (graduated)</em></p>
 			<p>Fluorescence and Lifetime spectroscopy</p>
 		</div>
 			

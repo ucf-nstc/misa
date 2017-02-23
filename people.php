@@ -9,24 +9,23 @@
 			<!-- UCF -->
 			<h2>The UCF Team</h2>
 			<p><strong>Dr. Santra</strong>, Chemistry, Materials Science, NanoScience and Nanotechnology</p>
-			<p>Associate Professor, NanoScience Technology Center, Department of Chemistry, Department of Materials Science and Engineering, and Burnett School of Biomedical Sciences,</p>
+			<p>Associate Professor, NanoScience Technology Center, Department of Chemistry, Department of Materials Science and Engineering, and Burnett School of Biomedical Sciences</p>
 			<p>Contact: <a href="mailto:swadeshmukul.santra@ucf.edu">swadeshmukul.santra@ucf.edu</a></p>
 			<p><strong>Dr. Rajasekaran</strong>, Microbiology</p>
 			<p>Research professor, NanoScience Technology Center,</p>
 			<p>Contact: <a href="mailto:parthi@ucf.edu">parthi@ucf.edu</a></p>
 			<p><strong>Dr. Gesquiere, </strong>Physics, Chemistry</p>
-			<p>Associate Professor, NanoScience Technology Center, Department of Chemistry, Department of Materials Science and Engineering, and The College of Optics and Photonics (CREOL),</p>
+			<p>Associate Professor, NanoScience Technology Center, Department of Chemistry, Department of Materials Science and Engineering, and The College of Optics and Photonics (CREOL)</p>
 			<p>Contact: <a href="mailto:andre@ucf.edu">andre@ucf.edu</a></p>
 			<p><strong>Dr. Tetard, </strong>Physics</p>
-			<p>Assistant Professor, NanoScience Technology Center, Department of Physics, Department of Materials Science and Engineering,</p>
+			<p>Assistant Professor, NanoScience Technology Center, Department of Physics, Department of Materials Science and Engineering</p>
 			<p>Contact: <a href="mailto:Laurene.Tetard@ucf.edu">Laurene.Tetard@ucf.edu</a></p>
 			<p><strong>Dr. Chumbimuni-Torres, </strong>Chemistry</p>
-			<p>Assistant Professor, Department of Chemistry,</p>
+			<p>Assistant Professor, Department of Chemistry</p>
 			<p>Contact: <a href="mailto:karin.chumbimunitorres@ucf.edu">karin.chumbimunitorres@ucf.edu</a></p>
 			<p><strong>Dr. Lee, </strong>Engineering</p>
-			<p>Assistant Professor, Department of Civil, Environmental, and Construction Engineering,</p>
+			<p>Assistant Professor, Department of Civil, Environmental, and Construction Engineering</p>
 			<p>Contact: <a href="mailto:WooHyoung.Lee@ucf.edu">WooHyoung.Lee@ucf.edu</a>&nbsp;</p>
-			<p><strong>Vilmania Ramos</strong>, MISA Program Assistant</p>
 
 			<!-- US -->
 			<h2>US Collaborators</h2>
@@ -41,13 +40,13 @@
 			<p>Contact: <a href="mailto:paret@ufl.edu">paret@ufl.edu</a></p>
 			<p><strong>Dr. Jones</strong>, Bacterial plant pathogens</p>
 			<p>Professor, University of Florida</p>
-			<p>Contact: jbjones@ufl.edu</p>
-			<p><strong>Dr. de la Fuente, </strong>Plant Pathology</p>
+			<p>Contact: <a href="mailto:jbjones@ufl.edu">jbjones@ufl.edu</a></p>
+			<p><strong>Dr. De la Fuente, </strong>Plant Pathology</p>
 			<p>Associate Professor, Auburn University</p>
-			<p>Contact:lzd0005@auburn.edu</p>
+			<p>Contact: <a href="mailto:lzd0005@auburn.edu">lzd0005@auburn.edu</a></p>
 			<p><strong>Dr. Labbe</strong>, Plant Science and Materials</p>
-			<p>Professor, Center for Renewable Carbon, University of Tennessee Institute of Agriculture,</p>
-			<p>Contact:nlabbe@utk.edu</p>
+			<p>Professor, Center for Renewable Carbon, University of Tennessee Institute of Agriculture</p>
+			<p>Contact: <a href="nlabbe@utk.edu">nlabbe@utk.edu</a></p>
 			<p><strong>Dr. Petridis</strong>, Computational modeling</p>
 			<p>Research Staff, Oak Ridge National Laboratory</p>
 			<p>Contact: <a href="mailto:petridisl@ornl.gov">petridisl@ornl.gov</a></p>
@@ -55,21 +54,25 @@
 			<!-- Int'l -->
 			<h2>International Collaborators</h2>
 			<h3>France</h3>
-			<p><strong>Dr. Molinari</strong>,</p>
+			<p><strong>Dr. Molinari</strong></p>
 			<p>Professor, University of Reims, France</p>
 			<p>Contact: <a href="mailto:michael.molinari@univ-reims.fr">michael.molinari@univ-reims.fr</a></p>
 
 			<h3>Canada</h3>
-			<p><strong>Cheryl Trueman, </strong>Vegetable Pathology &amp; Entomology<br /> College Research Professor</p>
-			<p>University of Guelph Ridgetown Campus<br /> Ridgetown, Ontario</p>
+			<p><strong>Cheryl Trueman</strong></p>
+			<p>Vegetable Pathology &amp; Entomology</p>
+			<p>College Research Professor</p>
+			<p>University of Guelph Ridgetown Campus</p>
+			<p>Ridgetown, Ontario</p>
 
 			<h3>India</h3>
 			<p><strong>Dr. Sharma</strong>, Biotechnology</p>
 			<p>Associate Professor, Indian Institute of Technology Roorkee, India</p>
 			<p>Contact: <a href="mailto:aksbsfbs@iitr.ac.in">aksbsfbs@iitr.ac.in</a></p>
-			<p><strong>Dr. Ghosh, </strong>Plant Pathology-Virology</p>
-			<p>Principal Scientist , ICAR- Central Citrus Research Institute, India</p>
-			<p>Contact: ghoshdk@hotmail.com</p>
+			<p><strong>Dr. Ghosh</strong></p>
+			<p>Plant Pathology-Virology</p>
+			<p>Principal Scientist, ICAR- Central Citrus Research Institute, India</p>
+			<p>Contact: <a href="mailto:ghoshdk@hotmail.com">ghoshdk@hotmail.com</a></p>
 
 		</div>
 	</div>
