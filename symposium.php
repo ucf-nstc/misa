@@ -3,6 +3,14 @@
 <!-- Symposium -->
 <section class="container">
 	<div class="row education">
+		<!-- 2017 -->
+		<h1 class="col-md-12">MISA 2017 Symposium</h1>
+		<div class="col-md-4">
+			<p>November 6-7, 2017</p>
+			<p><em>Program info coming soon</em></p>
+		</div>
+
+		<!-- 2016 -->
 		<h1 class="col-md-12">MISA 2016 Symposium</h1>
 		<div class="col-md-4">
 			<p>Our inaugural MISA Symposium was held at UCF on October 3 & 4, 2016.</p>
