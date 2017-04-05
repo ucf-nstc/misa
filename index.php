@@ -14,7 +14,7 @@
 		</div>
 
 		<div class="col-md-4">
-			<h2>Misa News</h2>
+			<h2>MISA News</h2>
 		</div>	
 	</div>
 </section>

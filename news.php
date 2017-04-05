@@ -3,7 +3,7 @@
 <!-- News -->
 <section class="container">
 	<div class="row projects">
-		<h1 class="col-md-12">Press Coverage</h1>
+		<h1 class="col-md-12">News</h1>
 
 		<!-- Material Development -->
 		<div class="col-md-8">
@@ -13,7 +13,12 @@
 
 			<!-- Links -->
 			<ul>
+
 				<li><u><a href="http://www.growingproduce.com/vegetables/ucf-stepping-up-to-be-farmings-knight-in-shining-armor/?utm_source=Citrus&utm_medium=sponsored%20ad&utm_campaign=UCF%20Stepping%20up%20to%20Be%20Farming%26%238217%3Bs%20Knight%20in%20Shining%20Armor">http://www.growingproduce.com/vegetables/ucf-stepping-up-to-be-farmings-knight-in-shining-armor/?utm_source=Citrus&utm_medium=sponsored%20ad&utm_campaign=UCF%20Stepping%20up%20to%20Be%20Farming%26%238217%3Bs%20Knight%20in%20Shining%20Armor</a></u></li>
+
+				<li><u><a href="http://nanoscience.ucf.edu/news/index.php?id=318">http://nanoscience.ucf.edu/news/index.php?id=318</a></u></li>
+				<li><u><a href="http://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTQ1NTEzNCZNRElEPTczMTY2NDMmTURTZWVkPTY2OTkmVHlwZT1NZWRpYQ%3D%3D">http://mms.tveyes.com/MediaCenterPlayer.aspx</a></u></li>
+
 				<li><u><a href="https://agrowawards.com/2016finalists/">https://agrowawards.com/2016finalists/</a></u></li>
 				<li><u><a href="http://www.rdmag.com/news/2016/08/2016-r-d-100-awards-finalists">http://www.rdmag.com/news/2016/08/2016-r-d-100-awards-finalists</a></u></li>
 				<li><u><a href="http://today.ucf.edu/ucf-developed-formula-stop-citrus-greening-finalist-2-awards/">http://today.ucf.edu/ucf-developed-formula-stop-citrus-greening-finalist-2-awards/</a></u></li>

@@ -37,14 +37,14 @@
 			<p>Material transport in plant tissues</p>
 			<p><strong>Parth</strong><strong> K. Patel, </strong><em> PhD student</em></p>
 			<p>Ionophore sensor development</p>
-			<p><strong>Courtney </strong><strong>Hulce</strong><strong>, </strong><em> M.S. student</em></p>
+			<p><strong>Courtney </strong><strong>Hulce</strong><strong>, </strong><em> M.S. student (graduated)</em></p>
 			<p>Ionophore sensor development</p>
 		</div>
 
 		<div class="col-md-4">
 			<p><strong>Stephanie M. </strong><strong>Armas</strong><strong>, </strong><em>M.S. student, Chemistry </em></p>
 			<p>Ionophore sensor development</p>
-			<p><strong>Wynstona</strong><strong> P. Louis, </strong><em> Chemistry</em></p>
+			<p><strong>Wynstona</strong><strong> P. Louis, </strong><em> Chemistry</em> (graduated)</p>
 			<p>Ionophore sensor development</p>
 			<p><strong>Dawn Mills, </strong><em> Chemistry</em></p>
 			<p>Ionophore sensor development</p>
