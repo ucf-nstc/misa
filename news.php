@@ -13,6 +13,7 @@
 
 			<!-- Links -->
 			<ul>
+				<li><u><a href="http://www.growingproduce.com/vegetables/ucf-stepping-up-to-be-farmings-knight-in-shining-armor/?utm_source=Citrus&utm_medium=sponsored%20ad&utm_campaign=UCF%20Stepping%20up%20to%20Be%20Farming%26%238217%3Bs%20Knight%20in%20Shining%20Armor">http://www.growingproduce.com/vegetables/ucf-stepping-up-to-be-farmings-knight-in-shining-armor/?utm_source=Citrus&utm_medium=sponsored%20ad&utm_campaign=UCF%20Stepping%20up%20to%20Be%20Farming%26%238217%3Bs%20Knight%20in%20Shining%20Armor</a></u></li>
 				<li><u><a href="https://agrowawards.com/2016finalists/">https://agrowawards.com/2016finalists/</a></u></li>
 				<li><u><a href="http://www.rdmag.com/news/2016/08/2016-r-d-100-awards-finalists">http://www.rdmag.com/news/2016/08/2016-r-d-100-awards-finalists</a></u></li>
 				<li><u><a href="http://today.ucf.edu/ucf-developed-formula-stop-citrus-greening-finalist-2-awards/">http://today.ucf.edu/ucf-developed-formula-stop-citrus-greening-finalist-2-awards/</a></u></li>
