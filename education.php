@@ -1,4 +1,5 @@
 <?php $pagetitle = "Education"; require_once('includes/header.php'); ?>
+<?php include('includes/functions.php'); ?>
 
 <!-- Education -->
 <section class="container">
@@ -18,32 +19,13 @@
 			<p>This was also an opportunity to visit field trials with Dr Santra’s projects underway.</p>
 		</div>
 
-		<?php // TODO - clean up this mess ?>
 		<div class="col-md-8">
-			<!-- Column of pictures #2 -->
-			<div class="col-md-4">
-				<img src="images/education/fl-ag-expo-2016/1.png">
-				<img src="images/education/fl-ag-expo-2016/4.png">
-				<img src="images/education/fl-ag-expo-2016/5.png">
-			</div>
-
-			<!-- Column of pictures #3 -->
-			<div class="col-md-4">
-				<img src="images/education/fl-ag-expo-2016/3.png">
-				<img src="images/education/fl-ag-expo-2016/6.png">
-				<img src="images/education/fl-ag-expo-2016/7.png">
-			</div>
-
-			<!-- Column of pictures #1 -->
-			<div class="col-md-4">
-				<img src="images/education/fl-ag-expo-2016/2.png">
-				<img src="images/education/fl-ag-expo-2016/8.png">
-				<img src="images/education/fl-ag-expo-2016/9.png">
-			</div>
+			<?php 
+				display_album('fl-ag-expo-2016/');
+			?>
 		</div>
 
 		<div class="col-md-12">
-			<?php // TODO - clean up this mess too ?>
 			<br>
 			<br>
 		</div>
@@ -54,32 +36,26 @@
 			<p>January 26, 2017</p>
 		</div>
 
-		<?php // TODO - clean up this mess ?>
 		<div class="col-md-8">
-			<!-- Column of pictures #1 -->
-			<div class="col-md-4">
-				<img src="images/education/fl-citrus-show-2017/1.jpg">
-				<img src="images/education/fl-citrus-show-2017/4.jpg">
-				<img src="images/education/fl-citrus-show-2017/5.jpg">
-			</div>
-
-			<!-- Column of pictures #2 -->
-			<div class="col-md-4">
-				<img src="images/education/fl-citrus-show-2017/3.jpg">
-				<img src="images/education/fl-citrus-show-2017/6.jpg">
-				<img src="images/education/fl-citrus-show-2017/7.jpg">
-				<img src="images/education/fl-citrus-show-2017/11.jpg">
-			</div>
-
-			<!-- Column of pictures #3 -->
-			<div class="col-md-4">
-				<img src="images/education/fl-citrus-show-2017/2.jpg">
-				<img src="images/education/fl-citrus-show-2017/8.jpg">
-				<img src="images/education/fl-citrus-show-2017/9.jpg">
-				<img src="images/education/fl-citrus-show-2017/10.jpg">
-			</div>
+			<?php 
+				display_album('fl-citrus-show-2017/');
+			?>
 		</div>
 
+		<div class="col-md-12">
+			<br>
+			<br>
+		</div>
+
+		<div class="col-md-4">
+			<h2>Trademark Nitrogen – April 2017</h2>
+		</div>
+
+		<div class="col-md-8">
+			<?php 
+				display_album('trademark-nitrogen-2017/');
+			?>
+		</div>
 	</div>
 </section>
 

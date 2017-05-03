@@ -48,9 +48,9 @@ div ul {
 }
 
 /* Education */
-.education img {
-	width: 100%;
-	padding: 1em 0;
+.album-thumb {
+	width: 150px;
+	padding: 1em;
 }
 
 /* Sidebar */
@@ -87,3 +87,4 @@ div ul {
 	max-height: 275px;
 	width: 100%;
 }
+
